@@ -11,3 +11,6 @@
 	
 * **I'd like to be good at coding.**
 	I'm not sure how good I'll be, but I have some background coding emails and editing CSS.
+	
+Here's a link to my current site that I need to redo while I'm at Bloc:
+[Martha VanderMeulen, Designer](https://marthavandermeulen.site)
